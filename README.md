@@ -8,7 +8,7 @@
 </ul>
 
 <h3 align = "center">Code Snippet</h3>
-<p align = "justify">Basically, this folder consists of the whole code in a fragile way so that everyone can understand how those codes are working.</p>
+<p align = "justify">Basically, this folder consists of the whole project code in a fragile way so that everyone can understand how those codes are working.</p>
 <ul>
   <li><b>"PDF Loader and Page Counter.ipynb"</b> file show how to open a pdf file and load that.</li>
   <li> The <b>"Speaker.ipynb"</b> file will allow you to understand how you can make your computer to say something to you.</li>
