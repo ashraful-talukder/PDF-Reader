@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9888ec914171f440ee2ebc2da6c8a3530e2594df56f8e8354930167b473bfe1
-size 288
+import pyttsx3
+import PyPDF2
+
+pdf = open('The_Da_Vinci_Code.pdf', 'rb')
+pdfReader = PyPDF2.PdfFileReader(pdf)
+pages = pdfReader.numPages
+
+read = pyttsx3.init()
+for i in range(0, pages):
+    page = pdfReader.getPage(i)
+    text = page.extractText()
+    read.say(text)
+    read.runAndWait()
