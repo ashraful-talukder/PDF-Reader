@@ -14,3 +14,6 @@
   <li> The <b>"Speaker.ipynb"</b> file will allow you to understand how you can make your computer to say something to you.</li>
   <li><b>"Read a Page.ipynb"</b> file illustrates how you can open a pdf file and read a page from that.</li>
 </ul>
+
+<h3 align = "center">Final Code</h3>
+<p align = "justify">The <b>Final Code</b> folder consists of two files where one is the code file and another is a pdf file. This code opens that pdf file first and loads that file as a pdf into the program. Then inside the loop, it just fetches a page from that pdf one by one, extracts, and read that. Initially, I have selected the whole book to read inside that loop. You can modify this code at your ease like the pdf book name, page number at loop those you are want to listen to, and so on. But remember that pdf file should be in the same directory where the code belongs. Otherwise, you have to mention the pdf file's path where it remains. </p>
