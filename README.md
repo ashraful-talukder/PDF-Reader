@@ -1,6 +1,6 @@
 <h1 align = "center">PDF Reader</h1>
 <p align = "justify">This is a very simple and interesting project. With the help of this project, you can able to make your computer reading a pdf book.</p>
-<p align = "justify">I have designed this project with three subsections for a proper understanding and utilization and those are-</p>
+<p align = "justify">I have designed this repository with three subsections for a proper understanding and utilization and those are-</p>
 <ul>
   <li>Code Snippet</li>
   <li>Final Code</li>
